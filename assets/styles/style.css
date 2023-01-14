@@ -1,0 +1,14 @@
+.container {
+    background: grey;
+    height: 400px;
+}
+.menu {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.link {
+    width: 50px;
+    height: 100px;
+    background-color: yellowgreen;
+}
